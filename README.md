@@ -17,8 +17,8 @@ One of the ways to do this is through the use of previously-available digitized 
 
 ## References
 
-1 Ahuja A. S. (2019). The impact of artificial intelligence in medicine on the future role of the physician. PeerJ, 7, e7702. https://doi.org/10.7717/peerj.7702
-2 Aljanabi, Maryam & Qutqut, Mahmoud & Hijjawi, Mohammad. (2018). Machine Learning Classification Techniques for Heart Disease Prediction: A Review. International Journal of Engineering and Technology. 7. 5373-5379. 10.14419/ijet.v7i4.28646. 
-3 Heron, M. Deaths: Leading causes for 2017 [PDF – 3 M]. National Vital Statistics Reports;68(6). Accessed November 19, 2019.
-4 Fryar CD, Chen T-C, Li X. Prevalence of uncontrolled risk factors for cardiovascular disease: United States, 1999–2010 [PDF-494K]. NCHS data brief, no. 103. Hyattsville, MD: National Center for Health Statistics; 2012. Accessed May 9, 2019.
-5 Kachuee, Mohammad, Shayan Fazeli, and Majid Sarrafzadeh. “ECG Heartbeat Classification: A Deep Transferable Representation.” 2018 IEEE International Conference on Healthcare Informatics (ICHI) (2018): n. pag. Crossref. Web.
+1. Ahuja A. S. (2019). The impact of artificial intelligence in medicine on the future role of the physician. PeerJ, 7, e7702. https://doi.org/10.7717/peerj.7702
+2. Aljanabi, Maryam & Qutqut, Mahmoud & Hijjawi, Mohammad. (2018). Machine Learning Classification Techniques for Heart Disease Prediction: A Review. International Journal of Engineering and Technology. 7. 5373-5379. 10.14419/ijet.v7i4.28646. 
+3. Heron, M. Deaths: Leading causes for 2017 [PDF – 3 M]. National Vital Statistics Reports;68(6). Accessed November 19, 2019.
+4. Fryar CD, Chen T-C, Li X. Prevalence of uncontrolled risk factors for cardiovascular disease: United States, 1999–2010 [PDF-494K]. NCHS data brief, no. 103. Hyattsville, MD: National Center for Health Statistics; 2012. Accessed May 9, 2019.
+5. Kachuee, Mohammad, Shayan Fazeli, and Majid Sarrafzadeh. “ECG Heartbeat Classification: A Deep Transferable Representation.” 2018 IEEE International Conference on Healthcare Informatics (ICHI) (2018): n. pag. Crossref. Web.
